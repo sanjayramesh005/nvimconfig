@@ -1,0 +1,7 @@
+require("config.lazy")
+require("config.treesitter")
+require("config.copilot")
+require("config.lspconfig")
+require("config.nvim-cmp")
+require("config.common")
+require("keymaps")
